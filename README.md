@@ -1,5 +1,5 @@
 # BASH_svg_diagram_creator
-BASH project of script that make a htlm file with svg diagrami inside based on data given by user.
+BASH project of script that make a htlm file with svg diagram inside based on data given by user.
 
 To use this script here is an example:
 
