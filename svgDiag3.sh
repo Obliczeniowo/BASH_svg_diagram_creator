@@ -35,7 +35,7 @@
 # You use this script on your own responsibility. #############################################
 ###############################################################################################
 
-header="<!doctype html><html><head><meta charset=\"UTF-8\"></head><body><!-- Created with Skrypt created by author of page (http://www.obliczeniowo.com.pl/?id=387) --><svg width=\"1200\" height=\"1000\">"
+header="<!doctype html><html><head><meta charset=\"UTF-8\"></head><body><!-- Created with Skrypt created by author of page (http://www.obliczeniowo.com.pl/?id=487) --><svg width=\"1200\" height=\"1000\">"
 
 end="</svg></body></html>"
 
